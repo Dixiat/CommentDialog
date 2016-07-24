@@ -1,0 +1,11 @@
+.commentBox {
+    width:400px;
+    height:auto;
+    margin:0 auto;
+    box-shadow: 1px 1px 3px gray;
+}
+
+.boxTitle {
+    padding-top: 15px;
+    text-align: center;
+}

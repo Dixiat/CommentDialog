@@ -7,7 +7,7 @@ var PORT = 4000,
 
 var headers = {
     'Content-Type': 'application/json',
-    'Access-Control-Allow-Origin': 'http://127.0.0.1:8080'
+    'Access-Control-Allow-Origin': 'http://localhost:8080'
 };
 
 var http = require('http');
