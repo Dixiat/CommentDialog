@@ -1,0 +1,9 @@
+.commentForm {
+    width: 400px;
+    padding-bottom: 5px;
+}
+
+.commentInput {
+    margin: 5px auto;
+    display: block;
+}

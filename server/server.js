@@ -22,7 +22,7 @@ var server = http.createServer(function (req, res) {
         });
 
     } else {
-        console.log('info: Server get a GET Reaquest.');
+        console.log('info: Server get a GET Request.');
     }
     //数据处理
     var dataString = JSON.stringify(data);

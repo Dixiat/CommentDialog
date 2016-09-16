@@ -1,0 +1,14 @@
+.comment {
+    width: 300px;
+    margin: 10px auto;
+    padding: 5px;
+    box-shadow: 1px 1px 5px gray;
+}
+
+.commentAuthor {
+    padding-left: 10px;
+}
+
+.commentContent {
+    text-indent: 2em;
+}
